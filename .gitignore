@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector DB
+db_chroma/
+
+# OS / IDE
+.DS_Store
+.vscode/
